@@ -1,3 +1,4 @@
+### System design basics
 - Computational power: To run a service
 - Reliability of a service can be taken care of by service providers
 - Business Requirements: More users, buying bigger machines or more machines (Scalability)
